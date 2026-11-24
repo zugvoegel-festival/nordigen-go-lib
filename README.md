@@ -1,3 +1,11 @@
+> **DEPRECATED / ARCHIVED**
+>
+> This repository is no longer used by Zugvögel Festival.
+> Bank sync for pretix now lives in **[pretix-bank-sync](https://github.com/zugvoegel-festival/pretix-bank-sync)**.
+> Do not use this fork for new work.
+
+---
+
 Nordigen Golang API client library
 ==================================
 
